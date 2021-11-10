@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @EverythingerTruten
+- 👋 Hi, I’m @EverythingerTruten.
 - 👀 I’m interested in filmmaking and creating tools for filmmakers.
-- 🌱 I’m currently learning Python
-- 📫 How to reach me everythingertruten1@gmail.com
+- ▶ My filmmaking YouTube channel: https://www.youtube.com/channel/UCy_-q4BfJH_VznFelH26SjA 
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: everythingertruten1@gmail.com
 
 <!---
 EverythingerTruten/EverythingerTruten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
