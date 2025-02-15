@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EverythingerTruten.
 - 👀 I’m interested in filmmaking and creating tools for filmmakers.
-- ▶ My filmmaking YouTube channel: https://www.youtube.com/channel/UCy_-q4BfJH_VznFelH26SjA 
+- ▶ My filmmaking YouTube channel: https://www.youtube.com/@Scovri 
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: everythingertruten1@gmail.com
 
